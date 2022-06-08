@@ -10,5 +10,5 @@ Then I receive related search result
 Examples:
 |term								|
 |Quality Assurance	|
-#|Software Testing		|
-#|Remote Work				|
+|Software Testing		|
+|Remote Work				|
